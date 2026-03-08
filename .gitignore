@@ -1,0 +1,9 @@
+# Private blog ideation / drafts (local only)
+.ideas/
+
+# Jekyll / Ruby
+.bundle/
+_site/
+Gemfile.lock
+.jekyll-cache/
+.sass-cache/
